@@ -1,0 +1,15 @@
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingLibrary\bin\Debug\BillingLibrary.dll
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingLibrary\bin\Debug\BillingLibrary.pdb
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingLibrary\obj\Debug\BillingLibrary.dll
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingLibrary\obj\Debug\BillingLibrary.pdb
+J:\Projects\241209\BillingClient\BillingLibrary\bin\Debug\BillingLibrary.dll
+J:\Projects\241209\BillingClient\BillingLibrary\bin\Debug\BillingLibrary.pdb
+J:\Projects\241209\BillingClient\BillingLibrary\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\241209\BillingClient\BillingLibrary\obj\Debug\BillingLibrary.dll
+J:\Projects\241209\BillingClient\BillingLibrary\obj\Debug\BillingLibrary.pdb
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingLibrary\bin\Debug\BillingLibrary.dll
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingLibrary\bin\Debug\BillingLibrary.pdb
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingLibrary\obj\Debug\BillingLibrary.dll
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingLibrary\obj\Debug\BillingLibrary.pdb

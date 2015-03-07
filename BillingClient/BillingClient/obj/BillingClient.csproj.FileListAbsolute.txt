@@ -1,0 +1,65 @@
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\bin\Debug\BillingClient.exe
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\bin\Debug\BillingClient.pdb
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\BillingClient.Properties.Resources.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\BillingClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\BillingClient.exe
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\BillingClient.pdb
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\bin\Debug\BillingClient.exe.config
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\bin\Debug\BillingLibrary.dll
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\bin\Debug\BillingLibrary.pdb
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\BillingClient.DataGridForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\BillingClient.MainForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\BillingClient.AddClientForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\BillingClient.AddSimForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\BillingClient.AddTariffForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\BillingClient.UpdateClientForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\BillingClient.ViewClientsForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\BillingClient.ViewTariffForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\BillingClient.ViewSimForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\BillingClient\BillingClient\obj\Debug\BillingClient.UpdateSimForm.resources
+J:\Projects\241209\BillingClient\BillingClient\bin\Debug\BillingClient.exe.config
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.exe
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.pdb
+J:\Projects\241209\BillingClient\BillingClient\bin\Debug\BillingClient.exe
+J:\Projects\241209\BillingClient\BillingClient\bin\Debug\BillingClient.pdb
+J:\Projects\241209\BillingClient\BillingClient\bin\Debug\BillingLibrary.dll
+J:\Projects\241209\BillingClient\BillingClient\bin\Debug\BillingLibrary.pdb
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.AddClientForm.resources
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.AddSimForm.resources
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.AddTariffForm.resources
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.UpdateSimForm.resources
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.ViewCallForm.resources
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.ViewCallHistoryForm.resources
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.ViewClientsForm.resources
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.DataGridForm.resources
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.MainForm.resources
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.Properties.Resources.resources
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.UpdateClientForm.resources
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.ViewSimForm.resources
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.ViewTariffForm.resources
+J:\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\bin\Debug\BillingClient.exe.config
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.exe
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.pdb
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\bin\Debug\BillingClient.exe
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\bin\Debug\BillingClient.pdb
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\bin\Debug\BillingLibrary.dll
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\bin\Debug\BillingLibrary.pdb
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.AddClientForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.AddSimForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.AddTariffForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.UpdateSimForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.ViewCallHistoryForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.ViewClientsForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.DataGridForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.MainForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.Properties.Resources.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.UpdateClientForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.ViewSimForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.ViewTariffForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.EmulCallForm.resources
+C:\Documents and Settings\Skeleton\Мои документы\Visual Studio 2005\Projects\241209\BillingClient\BillingClient\obj\Debug\BillingClient.EmulPayForm.resources

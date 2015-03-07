@@ -1,0 +1,5 @@
+bin\Debug\BillingLibrary.dll
+bin\Debug\BillingLibrary.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BillingLibrary.dll
+obj\Debug\BillingLibrary.pdb

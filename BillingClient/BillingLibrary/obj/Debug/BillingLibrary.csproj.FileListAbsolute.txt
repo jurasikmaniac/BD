@@ -1,0 +1,4 @@
+D:\REPS\BD\BillingClient\BillingLibrary\bin\Debug\BillingLibrary.dll
+D:\REPS\BD\BillingClient\BillingLibrary\bin\Debug\BillingLibrary.pdb
+D:\REPS\BD\BillingClient\BillingLibrary\obj\Debug\BillingLibrary.dll
+D:\REPS\BD\BillingClient\BillingLibrary\obj\Debug\BillingLibrary.pdb
